@@ -2,6 +2,11 @@
 
 Proyecto HTML introductorio que presenta una página de aprendizaje. La práctica registra dos versiones de la página y su documentación mediante Git y las sincroniza con GitHub.
 
+## Enlaces del proyecto
+
+- **Repositorio Git (HTTPS):** [https://github.com/Rodrigoa2197sv/mi-primer-proyecto.git](https://github.com/Rodrigoa2197sv/mi-primer-proyecto.git)
+- **Sitio publicado en GitHub Pages:** [https://rodrigoa2197sv.github.io/mi-primer-proyecto/](https://rodrigoa2197sv.github.io/mi-primer-proyecto/)
+
 ## Objetivo de la práctica
 
 Aplicar el flujo básico de control de versiones: crear un repositorio local, revisar cambios, preparar archivos, registrar commits y sincronizar el historial con GitHub. Distinguir el directorio de trabajo, el área de preparación y el repositorio, y documentar el proyecto sin publicar credenciales.
